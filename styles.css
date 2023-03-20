@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+  }
+
 
 body {
     display: flex;
@@ -6,6 +13,7 @@ body {
     height: 100vh;
     background: url('assets/canada.jpg') no-repeat center center fixed;
     background-size: cover;
+    font-size: 18px;
   }
   
   .profile-card {
@@ -113,8 +121,10 @@ body {
     display: inline;
   }
   
-  .head, .about {
+  .about {
     margin-bottom: 10%;
+    font-size: 16px;
+    text-align: justify;
   }
   
   .content {
@@ -125,4 +135,9 @@ body {
   img:hover {
     transform: scale(1.1);
     filter: grayscale(20%);
+  }
+
+  .fa {
+    letter-spacing: 0.2em;
+    margin-top: 3%
   }
