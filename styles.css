@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('assets/canada.jpg') no-repeat center center fixed;
+    background: url('assets/canada.JPG') no-repeat center center fixed;
     background-size: cover;
     font-size: 18px;
   }
@@ -76,7 +76,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('assets/canada.jpg') no-repeat center center fixed;
+    background: url('assets/canada.JPG') no-repeat center center fixed;
     background-size: cover;
   }
   
