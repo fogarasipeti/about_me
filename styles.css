@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: src="assets/canada.JPG" no-repeat center center fixed;
+    background: url('assets/canada.jpg') no-repeat center center fixed;
     background-size: cover;
   }
   
@@ -68,7 +68,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: src="assets/canada.JPG" no-repeat center center fixed;
+    background: url('assets/canada.jpg') no-repeat center center fixed;
     background-size: cover;
   }
   
